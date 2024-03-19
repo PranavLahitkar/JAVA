@@ -69,3 +69,4 @@ SELECT S.s_name, R.day
 FROM Sailor S
 JOIN Reserves R ON S.s_id = R.s_id
 ORDER BY R.day ASC;
+asdadasdasdad
